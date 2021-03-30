@@ -1,4 +1,4 @@
-package step2_01.array;
+package step2_01_array;
 
 /*
  * # 학생성적관리 프로그램[2단계] : 학생검색

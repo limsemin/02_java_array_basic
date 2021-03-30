@@ -1,4 +1,4 @@
-package step2_01.array;
+package step2_01_array;
 
 /*
  * # 배열 기본문제
